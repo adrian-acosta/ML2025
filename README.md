@@ -1,4 +1,4 @@
-# 🖥️ Proyecto de Automatización de Pruebas
+# 🖥️ Proyecto de Automatización de Pruebas ML2025
 
 Este proyecto contiene scripts de automatización de pruebas para un sitio web de ejemplo utilizando **Java, Selenium WebDriver, Cucumber y Maven**.
 
