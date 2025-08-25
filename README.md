@@ -32,7 +32,7 @@ Este proyecto contiene scripts de automatización de pruebas para un sitio web d
 
 1. Clona el repositorio:
 
-   git clone https://github.com/usuario/proyecto-automatizacion.git
+   git clone [https://github.com/usuario/proyecto-automatizacion.git](https://github.com/adrian-acosta/ML2025.git)
 
 2. Abre el proyecto en tu IDE favorito (Eclipse, IntelliJ).
 
