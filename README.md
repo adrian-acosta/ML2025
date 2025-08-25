@@ -54,9 +54,19 @@ Utilizar el comeando mvn test o bien desde el IDE (Eclipse por ejemplo) desde la
 
 <img width="659" height="460" alt="image" src="https://github.com/user-attachments/assets/18a9a386-4e6d-4fce-b567-72627a857dea" />
 
+📊 Reportes Generados
 
-**Reporte de Pruebas**
 El reporte de salida de la ejecución de pruebas es el reporte sencillo de Cucumber, pero cuenta con imagenes por cada Step que se ejecuta lo cual lo hace un reporte mucho más completo y sin tener que instalar algo adicicional como otros reporteadores más complejos.
+
+Reporte HTML Cucumber:
+Abrir Reporte
+
+<img width="269" height="173" alt="image" src="https://github.com/user-attachments/assets/ee56dd7b-4fa9-4ea9-8627-c0702bb9c9a8" />
+
+
+Reporte con Capturas de Pantalla:
+
+Ejemplo de captura de pantalla:
 
 <img width="1363" height="597" alt="image" src="https://github.com/user-attachments/assets/a6c21104-7638-4d54-954d-04168747d689" />
 
