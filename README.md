@@ -34,9 +34,9 @@ Este proyecto contiene scripts de automatización de pruebas para un sitio web d
 
    git clone https://github.com/adrian-acosta/ML2025.git
 
-2. Abre el proyecto en tu IDE favorito (Eclipse, IntelliJ).
+2. Abre el proyecto en tu IDE como Eclipse / IntelliJ.
 
-3.-Asegúrate de tener el driver de Chrome actualizado y disponible.
+3.-Asegúrate de tener el driver de Chrome actualizado y disponible.(No se necesita instalar ningún driver para los navedadores ya que estan administrador por el Web driver manager de boni garcia.
 
 <img width="614" height="181" alt="image" src="https://github.com/user-attachments/assets/f421ff68-221f-4edf-8630-df43055038d4" />
 
