@@ -74,3 +74,24 @@ Ejemplo de captura de pantalla:
 
 
 El reporte para mejor visibilidad abrirlo desde la ubicación del proyecto en un navegador como Chrome.
+
+✅ Buenas prácticas aplicadas
+
+- **`Steps reutilizables y descriptivos.
+
+- **`Captura de screenshots automáticos en pasos importantes o fallidos.
+
+- **`Uso de Hooks (@Before, @After) para inicialización y cierre del WebDriver.
+
+- **`Organización de features por módulo/funcionalidad.
+
+- **`Reportes generados en HTML y JSON para integración con herramientas externas.
+
+- **`Reutilización de métodos desde la clase BaseTest para optimización de código
+
+- **`Uso del patrón de diseño Page Object Model lo que permite una reutilización de WebElements y Web methods.
+
+- **`Utilización de archivo de configuración para no tener en código duro parámetros que pueden cambiar como rutas o bien el mismo navegador.
+- **`Agregar comentarios en los métodos para una mejor comprensión del mismo.
+  
+- **`Identación a nivel de código.
