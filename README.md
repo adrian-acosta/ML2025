@@ -4,7 +4,8 @@ Este proyecto contiene scripts de automatización de pruebas para un sitio web d
 
 ## 📁 Estructura del proyecto
 
-<img width="249" height="197" alt="image" src="https://github.com/user-attachments/assets/13359c70-de58-40a4-bd7d-0a0096f9ef85" />
+<img width="335" height="543" alt="image" src="https://github.com/user-attachments/assets/87ee3d58-8318-41c8-bb3d-7f7eed51df9a" />
+
 
 
 
@@ -18,7 +19,8 @@ Este proyecto contiene scripts de automatización de pruebas para un sitio web d
 
 ## ⚙️ Requisitos
 
-- Java JDK 24 o superior(En caso de cambiarlo actualizar en el POM.xml en la etiqueta "Release" <img width="397" height="169" alt="image" src="https://github.com/user-attachments/assets/c2665c82-6e8a-4243-976e-f34dfb161a08" />
+- Java JDK 24 o superior(En caso de cambiarlo actualizar en el POM.xml en la etiqueta "release"
+  <img width="403" height="160" alt="image" src="https://github.com/user-attachments/assets/78bc8bf8-d6b3-4110-a624-bc2ab7c70fd6" />
 
 - Maven 3.6 o superior
 - Navegador Chrome (o el que uses en los scripts)
@@ -35,25 +37,30 @@ Este proyecto contiene scripts de automatización de pruebas para un sitio web d
 2. Abre el proyecto en tu IDE favorito (Eclipse, IntelliJ).
 
 3.-Asegúrate de tener el driver de Chrome actualizado y disponible.
-En caso de necesitar ejecutarlo con otro browser hay que actualizar en el archivo config.properties
 
-<img width="331" height="101" alt="image" src="https://github.com/user-attachments/assets/e2a8b85d-91fb-484e-99b2-2bb6043aec96" />
+<img width="614" height="181" alt="image" src="https://github.com/user-attachments/assets/f421ff68-221f-4edf-8630-df43055038d4" />
+
+En caso de necesitar ejecutarlo con otro browser hay que actualizar en el archivo config.properties(Solo esta preparado para Choreme y Firefox, para que soporte otros hay que agregar en el código en la clase **WebDriverManager**
+
+<img width="491" height="210" alt="image" src="https://github.com/user-attachments/assets/829dc266-f02f-42f8-9f26-52fc4b8ddde5" />
+
 
 
 🚀 **Ejecución de pruebas**
 
 Ejecutar todos los escenarios:
 
-Utilizar el comeando mvn test o bien desde el IDE (Eclipse por ejemplo)
-<img width="658" height="758" alt="image" src="https://github.com/user-attachments/assets/b656cdc0-75c1-4805-89f6-8f2f6702d69a" />
+Utilizar el comeando mvn test o bien desde el IDE (Eclipse por ejemplo) desde la clase TestRunner
+
+<img width="659" height="460" alt="image" src="https://github.com/user-attachments/assets/18a9a386-4e6d-4fce-b567-72627a857dea" />
+
 
 **Reporte de Pruebas**
 El reporte de salida de la ejecución de pruebas es el reporte sencillo de Cucumber, pero cuenta con imagenes por cada Step que se ejecuta lo cual lo hace un reporte mucho más completo y sin tener que instalar algo adicicional como otros reporteadores más complejos.
 
-<img width="240" height="175" alt="image" src="https://github.com/user-attachments/assets/86a90a26-36a6-45f6-b386-e0bd6918ae58" />
+<img width="1363" height="597" alt="image" src="https://github.com/user-attachments/assets/a6c21104-7638-4d54-954d-04168747d689" />
 
-<img width="1351" height="602" alt="image" src="https://github.com/user-attachments/assets/00125445-e890-4c85-b405-80987e782095" />
+<img width="1308" height="578" alt="image" src="https://github.com/user-attachments/assets/6abac5f3-87cd-4ac4-a5ac-4dba46d56581" />
 
-<img width="1360" height="454" alt="image" src="https://github.com/user-attachments/assets/65a9e400-6d01-446d-a53e-1279bfed0e5f" />
 
 El reporte para mejor visibilidad abrirlo desde la ubicación del proyecto en un navegador como Chrome.
