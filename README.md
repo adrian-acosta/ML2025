@@ -54,7 +54,7 @@ Utilizar el comeando mvn test o bien desde el IDE (Eclipse por ejemplo) desde la
 
 <img width="659" height="460" alt="image" src="https://github.com/user-attachments/assets/18a9a386-4e6d-4fce-b567-72627a857dea" />
 
-📊 Reportes Generados
+📊 **Reportes Generados**
 
 El reporte de salida de la ejecución de pruebas es el reporte sencillo de Cucumber, pero cuenta con imagenes por cada Step que se ejecuta lo cual lo hace un reporte mucho más completo y sin tener que instalar algo adicicional como otros reporteadores más complejos.
 
@@ -75,7 +75,7 @@ Ejemplo de captura de pantalla:
 
 El reporte para mejor visibilidad abrirlo desde la ubicación del proyecto en un navegador como Chrome.
 
-✅ Buenas prácticas aplicadas
+✅ **Buenas prácticas aplicadas**
 
 - **`Steps reutilizables y descriptivos.
 
